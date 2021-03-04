@@ -9,6 +9,7 @@
 - Using AML SDK to register and collect assets
 - Environments are portable definitions to ensure consitency between training and deployment - more here https://docs.microsoft.com/en-us/azure/machine-learning/concept-environments
 - InferenceConfig and DeploymentConfig
+- Curated environments available out of the box: https://docs.microsoft.com/en-us/azure/machine-learning/resource-curated-environments
 
 ## Further reading
 - Most of the code was from here: https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/deploy-to-cloud/model-register-and-deploy.ipynb - I will package and send this code as well
